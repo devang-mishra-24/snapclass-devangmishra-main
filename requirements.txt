@@ -1,0 +1,24 @@
+streamlit
+# Utilitites 
+numpy
+pandas
+
+# FACE RECOGNITION
+scikit-learn
+dlib-bin
+git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0
+
+
+supabase # Backend service for database, authentication, and storage
+bcrypt # Secure password hashing and verification library
+
+
+
+segno # Library for generating QR codes and Micro QR codes with customizable output
+pillow # Python Imaging Library (PIL) fork for image processing, editing, and manipulation
+
+
+
+librosa # Audio analysis library for feature extraction, signal processing, and music analysis
+resemblyzer #  Voice embedding library for speaker recognition, voice similarity, and verification
