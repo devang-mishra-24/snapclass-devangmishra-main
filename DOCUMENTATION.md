@@ -73,10 +73,3 @@ streamlit run app.py
 - To change DB logic: [src/database/db.py](src/database/db.py).
 
 ---
-
-If you want, I can:
-- Add docstrings to functions in `src/database/db.py` and `src/pipelines/*`.
-- Generate a `docs/` folder with per-file detailed docs.
-- Run a quick static analysis for missing imports or obvious issues.
-
-Tell me which follow-up you'd like.
